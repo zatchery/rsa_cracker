@@ -10,3 +10,7 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+#I don't need to commit the txt files either
+*.txt
+/rsa
